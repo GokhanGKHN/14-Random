@@ -1,0 +1,14 @@
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\bin\Debug\net7.0\14-Random.exe
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\bin\Debug\net7.0\14-Random.deps.json
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\bin\Debug\net7.0\14-Random.runtimeconfig.json
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\bin\Debug\net7.0\14-Random.dll
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\bin\Debug\net7.0\14-Random.pdb
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\obj\Debug\net7.0\14-Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\obj\Debug\net7.0\14-Random.AssemblyInfoInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\obj\Debug\net7.0\14-Random.AssemblyInfo.cs
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\obj\Debug\net7.0\14-Random.csproj.CoreCompileInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\obj\Debug\net7.0\14-Random.dll
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\obj\Debug\net7.0\refint\14-Random.dll
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\obj\Debug\net7.0\14-Random.pdb
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\obj\Debug\net7.0\14-Random.genruntimeconfig.cache
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\14-Random\obj\Debug\net7.0\ref\14-Random.dll
